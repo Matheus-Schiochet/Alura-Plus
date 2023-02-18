@@ -146,15 +146,11 @@ body {/*Corpo da Página*/
 }
 
 .lista__link a:active {
-	color: green;
+	color: yellow;
 }
 
 .container__botao:hover {
 	background-color: var(--botao-azul-efeito);
 	color: var(--cor-de-fundo);
-}
-
-.dispositivos__lista:hover {
-	transition: 25px;
 }
 
